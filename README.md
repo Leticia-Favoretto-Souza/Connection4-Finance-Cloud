@@ -16,9 +16,9 @@ Este projeto demonstra a implementação de um ecossistema *Serverless* (sem ser
 
 Para facilitar a leitura e a reprodução deste ambiente, documentamos o passo a passo detalhado da configuração de cada provedor em suas respectivas pastas. Escolha um módulo abaixo para ver as instruções específicas:
 
-* 📁 **[aws/](./aws)** - API de Juros Compostos (AWS Lambda + API Gateway)
-* 📁 **[azure/](./azure)** - API de Conversão de Câmbio (Azure Functions)
-* 📁 **[gcp/](./gcp)** - API de Projeção de Inflação IPCA (Google Cloud Functions)
+* 📁 **[aws-lambda/](./aws-lambda)** - API de Juros Compostos (AWS Lambda + API Gateway)
+* 📁 **[azure-function/](./azure-function)** - API de Conversão de Câmbio (Azure Functions)
+* 📁 **[google-function/](./function)** - API de Projeção de Inflação IPCA (Google Cloud Functions)
 * 📁 **[frontend/](./frontend)** - Interface de Usuário e Deploy (Firebase Hosting)
 
 ---
